@@ -1,0 +1,3 @@
+[submodule "protobuf-android"]
+	path = protobuf-android
+	url = https://github.com/Dimon4eg/protobuf-android.git
